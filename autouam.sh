@@ -31,7 +31,7 @@ zone_id="8231699cf813ab49e1ed7d436b72e878"
 default_security_level="high"
 # 默认安全等级 关闭UAM时将会把安全等级调整为它
 
-check=""
+check="10"
 #自定义开盾阈值（非必需）
 #load模式填负载值 如:8  cpu模式填百分数值 如:90
 
