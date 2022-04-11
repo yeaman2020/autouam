@@ -19,13 +19,13 @@ keeptime="30"
 interval="0.5"
 # 检测间隔时间，默认0.5秒
 
-email="눈_눈"
+email="zhangyunmei2012@gmail.com"
 # CloudFlare 账号邮箱
 
-api_key="눈_눈"
+api_key="4T_I5KxvrAMwS0elY4jPLPJt3MNRJhPqq19oKBQd"
 # CloudFlare API KEY
 
-zone_id="눈_눈"
+zone_id="8231699cf813ab49e1ed7d436b72e878"
 # 区域ID 在域名的概述页面获取
 
 default_security_level="high"
