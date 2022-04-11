@@ -7,7 +7,7 @@
 # screen -x -S autouam -p 0 -X stuff $'\n'
 #
 
-mode="cpu"
+mode="load"
 # 两种模式可选，一：load (负载) 二：cpu
 
 challenge="1"
